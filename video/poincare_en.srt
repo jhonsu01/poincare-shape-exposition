@@ -1,0 +1,283 @@
+1
+00:00:00,000 --> 00:00:02,096
+Imagine you are an ant on an apple.
+
+2
+00:00:02,096 --> 00:00:04,133
+You will never leave its surface.
+
+3
+00:00:04,133 --> 00:00:07,247
+How could you ever learn what shape your world has?
+
+4
+00:00:07,247 --> 00:00:13,117
+In 1904, the mathematician Henri Poincaré asked a question like this about our own kind of space.
+
+5
+00:00:13,117 --> 00:00:15,752
+It took almost one hundred years to answer.
+
+6
+00:00:15,752 --> 00:00:22,400
+The answer is one of the great stories in science, and you do not need to know any advanced math to follow it.
+
+7
+00:00:23,000 --> 00:00:24,396
+Here is a clever test.
+
+8
+00:00:24,396 --> 00:00:28,963
+Walk anywhere, unrolling a rope behind you, and come back to the start.
+
+9
+00:00:28,963 --> 00:00:30,168
+Now pull the rope.
+
+10
+00:00:30,168 --> 00:00:32,896
+On an apple, it always slides back to you.
+
+11
+00:00:32,896 --> 00:00:37,019
+On a doughnut, if you went around the hole, the rope gets stuck.
+
+12
+00:00:37,019 --> 00:00:41,903
+So without ever leaving its world, an ant can tell an apple from a doughnut.
+
+13
+00:00:41,903 --> 00:00:48,120
+For surfaces like these, if the rope always comes back, your world is a sphere, up to stretching.
+
+14
+00:00:48,720 --> 00:00:50,197
+Now, the real question.
+
+15
+00:00:50,197 --> 00:00:53,471
+Imagine a whole universe, finite but with no edge.
+
+16
+00:00:53,471 --> 00:00:57,901
+You fly a rocket on any journey, trailing a rope, and you come back.
+
+17
+00:00:57,901 --> 00:01:04,449
+If the rope can always be pulled in, must your universe be the three-dimensional version of a sphere?
+
+18
+00:01:04,449 --> 00:01:09,071
+We cannot picture that shape, because it does not fit inside our space.
+
+19
+00:01:09,071 --> 00:01:11,704
+But mathematics can describe it exactly.
+
+20
+00:01:11,704 --> 00:01:14,400
+That question is the Poincaré conjecture.
+
+21
+00:01:15,000 --> 00:01:16,670
+Here is the strange part.
+
+22
+00:01:16,670 --> 00:01:19,141
+Higher dimensions were solved first.
+
+23
+00:01:19,141 --> 00:01:22,814
+In 1961, Stephen Smale settled dimensions five and up.
+
+24
+00:01:22,814 --> 00:01:26,153
+In 1982, Michael Freedman settled dimension four.
+
+25
+00:01:26,153 --> 00:01:31,228
+Dimension three, the one that looks like our own space, was still standing.
+
+26
+00:01:31,228 --> 00:01:38,040
+There is too little room to move things around, and yet plenty of room for shapes to get complicated.
+
+27
+00:01:38,640 --> 00:01:41,722
+Then came a beautiful idea from Richard Hamilton.
+
+28
+00:01:41,722 --> 00:01:44,742
+Think of a metal plate with hot and cold spots.
+
+29
+00:01:44,742 --> 00:01:48,138
+Heat spreads, and the differences fade by themselves.
+
+30
+00:01:48,138 --> 00:01:51,032
+What if the shape of space could do the same?
+
+31
+00:01:51,032 --> 00:01:53,925
+Hamilton wrote an equation called Ricci flow.
+
+32
+00:01:53,925 --> 00:01:58,580
+Bumpy geometry tends to even out over time, a little like heat spreading.
+
+33
+00:01:58,580 --> 00:02:02,480
+A lumpy world could smooth itself into a shape you recognize.
+
+34
+00:02:03,080 --> 00:02:04,491
+But there was a catch.
+
+35
+00:02:04,491 --> 00:02:07,890
+Picture a dumbbell: two balls joined by a thin neck.
+
+36
+00:02:07,890 --> 00:02:11,482
+The neck shrinks faster than the balls, and it pinches.
+
+37
+00:02:11,482 --> 00:02:12,829
+The equation breaks.
+
+38
+00:02:12,829 --> 00:02:14,689
+Hamilton's plan was surgery.
+
+39
+00:02:14,689 --> 00:02:19,114
+Just before the neck pinches, cut it, cap both ends, and keep going.
+
+40
+00:02:19,114 --> 00:02:22,898
+The hard part was proving this could always be controlled.
+
+41
+00:02:22,898 --> 00:02:25,720
+Nobody could do it, for about twenty years.
+
+42
+00:02:26,320 --> 00:02:30,886
+Then, in 2002 and 2003, Grigori Perelman posted three papers online.
+
+43
+00:02:30,886 --> 00:02:34,244
+He showed how to keep this process under control.
+
+44
+00:02:34,244 --> 00:02:39,281
+Near a trouble spot, the shape looks like one of just a few simple models.
+
+45
+00:02:39,281 --> 00:02:46,063
+Each cut removes a definite amount of volume, so the cuts cannot pile up endlessly in a finite time.
+
+46
+00:02:46,063 --> 00:02:48,682
+Experts spent years checking his work.
+
+47
+00:02:48,682 --> 00:02:52,711
+He was offered the Fields Medal and a million-dollar prize.
+
+48
+00:02:52,711 --> 00:02:53,920
+He declined both.
+
+49
+00:02:54,520 --> 00:02:56,990
+Here is the ending, and it is gorgeous.
+
+50
+00:02:56,990 --> 00:03:02,691
+If your world passes the rope test, the flow makes everything disappear in a finite time.
+
+51
+00:03:02,691 --> 00:03:05,035
+Every piece rounds off and vanishes.
+
+52
+00:03:05,035 --> 00:03:06,808
+Now run the movie backward.
+
+53
+00:03:06,808 --> 00:03:11,496
+Those vanishing pieces are simple shapes, and each cut can be glued back.
+
+54
+00:03:11,496 --> 00:03:15,803
+When you rebuild the world, the only thing you can get is a sphere.
+
+55
+00:03:15,803 --> 00:03:19,160
+So the rope test was enough, just as Poincaré asked.
+
+56
+00:03:19,760 --> 00:03:21,724
+Today there is a new chapter.
+
+57
+00:03:21,724 --> 00:03:28,497
+In 2026, a team reported a proof of this theorem in Lean, a program that checks logic step by step.
+
+58
+00:03:28,497 --> 00:03:32,290
+MathDB marks one version of that work as Lean verified.
+
+59
+00:03:32,290 --> 00:03:35,000
+Let's be careful about what this means.
+
+60
+00:03:35,000 --> 00:03:37,844
+We did not run that huge check ourselves.
+
+61
+00:03:37,844 --> 00:03:44,821
+And a computer check does not explain the idea, or prove that the code asks Poincaré's exact question.
+
+62
+00:03:44,821 --> 00:03:46,650
+People have to check that.
+
+63
+00:03:46,650 --> 00:03:51,120
+The theorem itself already rests on two decades of expert review.
+
+64
+00:03:51,720 --> 00:03:53,339
+So here is the whole story.
+
+65
+00:03:53,339 --> 00:03:55,677
+An ant can test its world with a rope.
+
+66
+00:03:55,677 --> 00:04:00,053
+Let the shape smooth itself, cut the necks, and watch everything vanish.
+
+67
+00:04:00,053 --> 00:04:02,451
+Run it backward, and you find a sphere.
+
+68
+00:04:02,451 --> 00:04:06,767
+A question about shape was answered by watching shape change over time.
+
+69
+00:04:06,767 --> 00:04:10,904
+All the mathematics here belongs to the people named in the sources.
+
+70
+00:04:10,904 --> 00:04:13,722
+This explanation was made with the help of AI.
+
+71
+00:04:13,722 --> 00:04:15,640
+Sources are in the description.
